@@ -117,9 +117,9 @@ margin-right: 10px;
 footer{
     
     font-weight: 600;
-    margin-top: 140px;
+    margin-top: 220px;
     text-align: center;
-    background-color: rgb(185, 195, 204);
+    background-color: rgb(93, 140, 180);
     border-radius: 30px;
     margin-left: 450px;
     margin-right: 450px;
@@ -161,9 +161,9 @@ width: 220px,120px;
 border-radius: 80px,80px;
 background-size: 200px,180px;
 background-position: bottom right,top left;
-margin-left: 250px;
+margin-left: 110px;
 padding-right:100px;
-padding-left: 60px,100px;
+padding-left: 60px,80px;
 
    
 }
